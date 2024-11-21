@@ -1,7 +1,7 @@
 # Specyfikacja Google Tag Manager
 Skopiuj poniższy kod i wklej go na każdej stronie swojej witryny.
 
-### 1) Sekcja <head>
+### 1) Sekcja "head"
 
 Prośba o wklejenie kodu tak wysoko w sekcji <head> strony, jak to możliwe
 
@@ -15,7 +15,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
 ```
 
-### 2) Tag <body>
+### 2) Tag "body"
 
 Prośba o wklejenie kodu bezpośrednio po otwierającym tagu <body>
 
