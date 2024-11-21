@@ -37,7 +37,7 @@ https://developers.google.com/analytics/devguides/collection/ga4/reference/event
 
 ### 1) Wyświetlenie listingu produktów - wywołanie eventu view_item_list
 
-Prośba o wywołanie kodu w momencie wyświetlenia strony z listingiem produktów na stronie https://florina.eu/collections/bestsellery.
+Prośba o wywołanie kodu w momencie wyświetlenia strony z listingiem produktów. Na przykład: https://florina.eu/collections/bestsellery.
 ![Zrzut ekranu 2024-11-20 131829](https://github.com/user-attachments/assets/832ac9ad-a3cd-4063-bc47-be79da54b991)
 
 
@@ -339,9 +339,9 @@ dataLayer.push({
   }
 });
 ```
-### 9) Załogowanie na platformie - wywołanie eventu login
+### 9) Zalogowanie na platformie - wywołanie eventu login
 
-Prośba o wywołanie kodu w momencie prawidłowego łogowania na platformie. Może być od razu po kliknięciu w przycisk "Sign in". Na przykład: https://florina.eu/account/login
+Prośba o wywołanie kodu w momencie prawidłowego logowania na platformie. Może być od razu po kliknięciu w przycisk "Sign in". Na przykład: https://florina.eu/account/login
 
 ![Zrzut ekranu 2024-11-21 141840](https://github.com/user-attachments/assets/61c02975-6ce5-4dee-8cd2-8e0c24f5e5e8)
 
