@@ -59,7 +59,7 @@ dataLayer.push({
       item_category: "Bestsellery",
       item_category2: "Florina Nube",
       item_category3: "",
-      item_variant: "green",
+      item_variant: "color: green, size: 20 cm", // wszystkie parametry opisowe produktu wymienione przez przycinek
       currency: "PLN",
       price: 30.00, // aktualna jednostkowa cena produktu
       quantity: 1
@@ -71,7 +71,7 @@ dataLayer.push({
       item_category: "Patelnie",
       item_category2: "Florina Nube",
       item_category3: "",
-      item_variant: "green",
+      item_variant: "color: green, size: 28 cm", // wszystkie parametry opisowe produktu wymienione przez przycinek
       currency: "PLN",
       price: 30.00, // aktualna jednostkowa cena produktu
       quantity: 1
@@ -104,7 +104,7 @@ dataLayer.push({
       item_category: "Bestsellery",
       item_category2: "Florina Nube",
       item_category3: "",
-      item_variant: "green",
+      item_variant: "color: green, size: 28 cm", // wszystkie parametry opisowe produktu wymienione przez przycinek
       currency: "PLN",
       price: 30.00, // aktualna jednostkowa cena produktu
       quantity: 1
@@ -139,7 +139,7 @@ dataLayer.push({
       item_category: "Bestsellery",
       item_category2: "Florina Nube",
       item_category3: "",
-      item_variant: "green",
+      item_variant: "color: green, size: 28 cm", // wszystkie parametry opisowe produktu wymienione przez przycinek
       currency: "PLN",
       price: 30.00, // aktualna jednostkowa cena produktu
       quantity: 1
@@ -175,7 +175,7 @@ dataLayer.push({
       item_category: "Bestsellery",
       item_category2: "Florina Nube",
       item_category3: "",
-      item_variant: "green",
+      item_variant: "color: green, size: 28 cm", // wszystkie parametry opisowe produktu wymienione przez przycinek
       currency: "PLN",
       price: 30.00, // aktualna jednostkowa cena produktu
       quantity: 1
@@ -212,7 +212,7 @@ dataLayer.push({
       item_category: "Bestsellery",
       item_category2: "Florina Nube",
       item_category3: "",
-      item_variant: "green",
+      item_variant: "color: green, size: 28 cm", // wszystkie parametry opisowe produktu wymienione przez przycinek
       currency: "PLN",
       price: 30.00, // aktualna jednostkowa cena produktu
       quantity: 1
@@ -249,7 +249,7 @@ dataLayer.push({
       item_category: "Bestsellery",
       item_category2: "Florina Nube",
       item_category3: "",
-      item_variant: "green",
+      item_variant: "color: green, size: 28 cm", // wszystkie parametry opisowe produktu wymienione przez przycinek
       currency: "PLN",
       price: 30.00, // aktualna jednostkowa cena produktu
       quantity: 1
@@ -288,7 +288,7 @@ dataLayer.push({
       item_category: "Bestsellery",
       item_category2: "Florina Nube",
       item_category3: "",
-      item_variant: "green",
+      item_variant: "color: green, size: 28 cm", // wszystkie parametry opisowe produktu wymienione przez przycinek
       currency: "PLN",
       price: 30.00, // aktualna jednostkowa cena produktu
       quantity: 1
@@ -330,7 +330,7 @@ dataLayer.push({
       item_category: "Bestsellery",
       item_category2: "Florina Nube",
       item_category3: "",
-      item_variant: "green",
+      item_variant: "color: green, size: 28 cm", // wszystkie parametry opisowe produktu wymienione przez przycinek
       currency: "PLN",
       price: 30.00, // aktualna jednostkowa cena produktu
       quantity: 1
