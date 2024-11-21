@@ -3,7 +3,7 @@ Skopiuj poniższy kod i wklej go na każdej stronie swojej witryny.
 
 ### 1) Sekcja "head"
 
-Prośba o wklejenie kodu tak wysoko w sekcji <head> strony, jak to możliwe
+Prośba o wklejenie kodu tak wysoko w sekcji ``` <head> ``` strony, jak to możliwe
 
 ``` javascript
 <!-- Google Tag Manager -->
@@ -17,7 +17,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 ### 2) Tag "body"
 
-Prośba o wklejenie kodu bezpośrednio po otwierającym tagu <body>
+Prośba o wklejenie kodu bezpośrednio po otwierającym tagu ```<body>```
 
 ``` javascript
 <!-- Google Tag Manager (noscript) -->
