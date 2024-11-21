@@ -61,7 +61,7 @@ dataLayer.push({
       item_category3: "",
       item_variant: "green",
       currency: "PLN",
-      price: 30.00,
+      price: 30.00, // aktualna jednostkowa cena produktu
       quantity: 1
     },
     {
@@ -73,7 +73,7 @@ dataLayer.push({
       item_category3: "",
       item_variant: "green",
       currency: "PLN",
-      price: 30.00,
+      price: 30.00, // aktualna jednostkowa cena produktu
       quantity: 1
     }]
   }
@@ -106,7 +106,7 @@ dataLayer.push({
       item_category3: "",
       item_variant: "green",
       currency: "PLN",
-      price: 30.00,
+      price: 30.00, // aktualna jednostkowa cena produktu
       quantity: 1
     }
     ]
@@ -141,7 +141,7 @@ dataLayer.push({
       item_category3: "",
       item_variant: "green",
       currency: "PLN",
-      price: 30.00,
+      price: 30.00, // aktualna jednostkowa cena produktu
       quantity: 1
     }
     ]
@@ -177,7 +177,7 @@ dataLayer.push({
       item_category3: "",
       item_variant: "green",
       currency: "PLN",
-      price: 30.00,
+      price: 30.00, // aktualna jednostkowa cena produktu
       quantity: 1
     }
     ]
@@ -214,7 +214,7 @@ dataLayer.push({
       item_category3: "",
       item_variant: "green",
       currency: "PLN",
-      price: 30.00,
+      price: 30.00, // aktualna jednostkowa cena produktu
       quantity: 1
     }
     ]
@@ -251,7 +251,7 @@ dataLayer.push({
       item_category3: "",
       item_variant: "green",
       currency: "PLN",
-      price: 30.00,
+      price: 30.00, // aktualna jednostkowa cena produktu
       quantity: 1
     }
     ]
@@ -290,7 +290,7 @@ dataLayer.push({
       item_category3: "",
       item_variant: "green",
       currency: "PLN",
-      price: 30.00,
+      price: 30.00, // aktualna jednostkowa cena produktu
       quantity: 1
     }
     ]
@@ -332,7 +332,7 @@ dataLayer.push({
       item_category3: "",
       item_variant: "green",
       currency: "PLN",
-      price: 30.00,
+      price: 30.00, // aktualna jednostkowa cena produktu
       quantity: 1
     }
     ]
